@@ -2,9 +2,9 @@
 //
 #pragma once
 
-#ifndef DWORD_PTR
-#define DWORD_PTR DWORD*
-#endif
+// #ifndef DWORD_PTR
+// #define DWORD_PTR DWORD*
+// #endif
 
 #include "afx.h"
 
